@@ -78,5 +78,46 @@
 // {
 //     document.write("Hello World!");
 // }
-var myCollection=[1,"meera mam",true,{name:"sanjeev",age:30},"abhishek","bachhan","Amitabh"];
+// var myCollection=[1,"meera mam",true,{name:"sanjeev",age:30},function(name){ console.log(name)},"abhishek","bachhan","Amitabh"];
+// console.log(myCollection);
+// function information(firstName,lastname,language)
+// {
+//     if(arguments.length==3)
+//     {
+//         console.log(firstName);
+//         console.log(lastname);
+//         console.log(language);
+//     }
+// }
+// information();
+// information('Jitendra','abi','vivek');
+// function sayHello()
+// {
+//     alert("Hello World");
+// }
+// function over(){
+//     document.getElementById("mytext").style.color="#000";
+// }
+// function mout()
+// {
+//     document.getElementById("mytext").style.color="magenta";
+// }
+// var retVal=confirm("Do you want to continue?");
+// if(retVal==true)
+// {
+//     alert("User wants to continue!");
+// }
+// else{
+//     alert("User Does Not wnt to continue!");
+// }
+// var retVal1=prompt("Enter your name:","your name here");
+// var retVal2=prompt("Enter your class:","your classhere");
+// var retVal3=prompt("Enter your rollno:","your rollno. here");
 
+// alert("You have entered:"+retVal1);
+// alert("Your class:"+retVal2);
+// alert("Your rollno:"+retVal3);
+// var name=prompt("Enter your name",);  
+var question="What is 10+10";
+var answer=20;
+var correct="<img src="
