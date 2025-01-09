@@ -118,6 +118,68 @@
 // alert("Your class:"+retVal2);
 // alert("Your rollno:"+retVal3);
 // var name=prompt("Enter your name",);  
-var question="What is 10+10";
-var answer=20;
-var correct="<img src="
+// var question="What is 10+10";
+// var answer=20;
+// var correct="<img src="
+// function Redirect(){
+// window.location="https://www.youtube.com";
+// }
+// document.write("You will be redirected to main page in 10 sec.");
+// setTimeout('Redirect()',10000);
+// function validateForm()
+// {
+//     var x=document.forms["myForm"]["fname"].value;
+//     if(x==null || x=="")
+//     {
+//         alert("First name mustr be filled out");
+//         return false;
+//     }
+// }
+// function validateForm()
+// {
+//     var y=document.form["myForm"]["call"].value;
+//     if(y.length!=10)
+//     {
+//         alert("Enter 10 digit mobile number");
+//         return false;
+//     }
+//     if(y.match(/^[0-9]{10}$/))
+//     {
+//         alert("Only digits,please");
+//         return false;
+//     }
+// }
+// function validateForm()
+// {
+//     var x=document.forms["myForm"]["email"].value;
+//     var atpos=
+// }
+// const d=new Date("2015-03-25");
+// document.write(d+"<br>");
+// const d1=new Date("2015-03");
+// document.write(d1+"<br>");
+// const d2=new Date("03/25/2015");
+// document.write(d2);
+// let msec=Date.parse("March 21,2012");
+// // document.write(msec);
+// const d4=new DataTransfer("2021-03-25");
+// document.write(d4.getFullYear());
+// d4.getMonth();
+// console.log(d4);
+// let month=months(d4.getMonth());
+// const months=["January","February",]
+// const d=new Date("2021-03-25");
+// console.log(d.getDay());
+console.log(Math.sign(-45));
+console.log(Math.min(0,150,30,20,-8,-200));
+console.log(Math.max(0,150,30,20,-8,-200));
+console.log(Math.floor(Math.random()*101)+1);
+function getRndInteger(min,max)
+{
+    return Math.floor(Math.random()*(max-min+1))+min;
+}
+console.log(getRndInteger(5,7));
+Number("3.14");
+Number(Math.PI);
+Number("John");
+String(123);
